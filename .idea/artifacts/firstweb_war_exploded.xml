@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="firstweb" />
         </element>
+        <element id="library" level="project" name="javax.servlet.jstl" />
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet.jstl" />
+        </element>
       </element>
     </root>
   </artifact>
